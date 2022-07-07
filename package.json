@@ -86,7 +86,7 @@
   },
   "dependencies": {
     "electron-updater": "^4.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "electron-log": "^3.0.6"
   }
 }
